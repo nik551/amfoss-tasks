@@ -9,6 +9,9 @@ Task **2** which included the programming section(which included problems from H
 Task **5** which I just had to create a new repository.Go to settings, and added themes using jekyll.
 
 
+Task **7** which I had to download rust and some packages.
+
+
 Task **8** which  had Captcha Breaking.I had to download tesseract and further pytesseract.
 
 
