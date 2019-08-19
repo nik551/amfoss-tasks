@@ -7,3 +7,7 @@ Task **2** which included the programming section(which included problems from H
 
 
 Task **8** which  had Captcha Breaking.I had to download tesseract and further pytesseract.
+
+
+
+
