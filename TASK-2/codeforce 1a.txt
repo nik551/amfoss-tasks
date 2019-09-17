@@ -1,0 +1,15 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+	int m,n,a,b,c;
+	cin>>m>>n>>a;
+	b=m/a;
+	c=n/a;
+	if(m%a!=0)
+	b++;
+	if(n%a!=0)
+	c++;
+	cout<<b*c<<endl;
+	return 0;
+}
